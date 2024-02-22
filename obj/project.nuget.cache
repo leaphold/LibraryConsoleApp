@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6dteNdnAW/NKQDi2LWtIfo4ADtBXmbRYeKhixQQNiXFZBexZPnNUqoVQsB4jcHHrvIXBq4Baby5UTVx/EjvfA==",
+  "success": true,
+  "projectFilePath": "/home/leophold/Documents/Code/Programmering C#/LibraryFinal/LibraryFinal.csproj",
+  "expectedPackageFiles": [
+    "/home/leophold/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
